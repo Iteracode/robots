@@ -2,7 +2,7 @@
     "name": "iteracode/robots",
     "description": "Robots.txt Shell Generator",
     "type": "cakephp-plugin",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "license": "MIT",
     "require": {
         "cakephp/cakephp": "3.*"
